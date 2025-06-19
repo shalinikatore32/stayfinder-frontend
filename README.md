@@ -54,10 +54,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Create a new Pull Request
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Testing
 
 The application includes unit tests for the main components and utility functions. To run the tests, use the following command:
